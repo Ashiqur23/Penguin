@@ -1,0 +1,21 @@
+
+.header-container{
+    background-color: #FFFBF0;
+}
+.hero-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.hero-btn{
+    background-color: #A4BC46;
+    padding: 20px 25px;
+    color: #fff;
+    font-weight: 700;
+    border: none;
+    border-radius: 20px;
+}
+span{
+    color: #FABE4C;
+}
